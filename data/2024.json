@@ -1,0 +1,47 @@
+[
+  {
+    "time-tag": "2024-01",
+    "ssn": 123,
+    "smoothed_ssn": -1,
+    "observed_swpc_ssn": 121.77,
+    "smoothed_swpc_ssn": -1,
+    "f10.7": 163.99,
+    "smoothed_f10.7": -1
+  },
+  {
+    "time-tag": "2024-02",
+    "ssn": 124.7,
+    "smoothed_ssn": -1,
+    "observed_swpc_ssn": 116.59,
+    "smoothed_swpc_ssn": -1,
+    "f10.7": 173.28,
+    "smoothed_f10.7": -1
+  },
+  {
+    "time-tag": "2024-03",
+    "ssn": 104.9,
+    "smoothed_ssn": -1,
+    "observed_swpc_ssn": 103.06,
+    "smoothed_swpc_ssn": -1,
+    "f10.7": 155.19,
+    "smoothed_f10.7": -1
+  },
+  {
+    "time-tag": "2024-04",
+    "ssn": 136.5,
+    "smoothed_ssn": -1,
+    "observed_swpc_ssn": 141.1,
+    "smoothed_swpc_ssn": -1,
+    "f10.7": 161.7,
+    "smoothed_f10.7": -1
+  },
+  {
+    "time-tag": "2024-05",
+    "ssn": 171.7,
+    "smoothed_ssn": -1,
+    "observed_swpc_ssn": 146.26,
+    "smoothed_swpc_ssn": -1,
+    "f10.7": 188.37,
+    "smoothed_f10.7": -1
+  }
+]
